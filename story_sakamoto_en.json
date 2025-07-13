@@ -1,0 +1,398 @@
+{
+  "intro_text": "Here’s the natural English translation for your game introduction, keeping it engaging and smooth for players:\n\nWelcome to \"The Saga of Ryoma Sakamoto: Heroic Legend and Ultimate Choice\"—a time-travel adventure set amidst the crashing waves of Japan’s final days of the samurai!\n\nIn this game, you suddenly find yourself transported back to the turbulent era of Bakumatsu Japan. Alongside the legendary Ryoma Sakamoto, who sailed through these chaotic times, you’ll embark on a grand voyage that could change the course of Japan’s future.\nIn your hands? A modern smartphone—complete with the trusty AI app, Nagi.\n\nWith Nagi’s support, you’ll dive into the world of the Kaientai (Maritime Support Fleet), facing thrilling adventures, high-stakes negotiations, and unpredictable twists.\n\n✅ What Awaits You:\n\nSet in the port city of Nagasaki during the final days of the samurai, your journey will bring you face to face with Ryoma Sakamoto and his companions.\nForge bonds, make choices that dramatically alter the story and its ending, and rely on AI wisdom to navigate voyages, tricky negotiations, and looming crises. Whether you ride the tides of history—or are swallowed by them—depends entirely on your choices.\n\n❤\uFE0F About Life Points (LP):\n\nYour Life Points (LP) will rise and fall based on your actions.\nReckless decisions will drain your LP, and hitting zero means game over.\nYou start with a maximum of 3 LP.\n\n⚠\uFE0F Important Notes:\n\nThis game follows a linear, stream-based format.\nRefreshing the page will reset your progress to the beginning.\nPlease avoid using the back button.\n\n\uD83C\uDFAE Getting Started:\n\nBefore you begin, please enter your name.\nRegardless of gender, anyone can become the hero of this adventure.\n\nNow, your journey through history begins.\nJoin Ryoma Sakamoto and the Kaientai, guided by your AI partner, Nagi, and dive into this legendary tale!\n\nIf you'd like, I can adjust the tone (e.g. more casual, more dramatic) or adapt this for specific platforms like Steam or mobile. Let me know!",
+  "chapters": {
+    "1": {
+      "title": "The Call of the Tide",
+      "image": "img_chapter1_2.png",
+      "choice_image": "img_chapter1_3.png",
+      "text": "It was a quiet holiday afternoon. Sunlight streamed through the window as {player_name} absentmindedly tapped on their smartphone.",
+      "button_label_r": "▶ Read More",
+      "story": "A strange app icon appeared—an old sailing ship cresting blue waves.\n\n“Huh? I don’t remember installing this…”\n\nCuriosity won out. You tapped it.\n\nThe screen flashed white—and in an instant, you were swallowed by blinding light.\nCrashing waves roared in your ears. The salty breeze stung your nose.\nWhen you opened your eyes, your feet were in the sand. A bustling harbor town stretched before you.\n\nThe phone in your pocket vibrated. A calm voice came from the screen.\nIt was the AI app, Nagi.\n\n\"Welcome, {player_name}. Please remain calm. You are now in Nagasaki… in the year 1867. Just before Japan’s world would change forever.”\n\nBefore you could even process the shock, Nagi continued with a gentle tone.\n\n“This era is called Bakumatsu—a time of upheaval. The Tokugawa Shogunate is weakening, and powerful regional domains are beginning to act independently.”\n\nYou glance around. People in traditional kimonos pass by, along with the occasional foreigner.\nThe city hums with restless energy.\n\n“Nagasaki is a key trading port between Japan and the outside world. One group, in particular, draws attention here: the Kaientai, or Maritime Support Fleet. Their leader? A man named Ryoma Sakamoto—a trader, a visionary… and in the future, a national hero.”\n\n“Sakamoto Ryoma… I’ve heard that name…”\n\nNagi nods on the screen.\n\n“In modern Japan, he’s hailed as the hero who changed a nation. But in reality, historical records portray him more modestly—as a sociable, business-savvy man with grand ambitions.”\n\nSuddenly, a booming voice rings out by a docked ship.\n\n“Hey! You there—new guy! Give us a hand!”\n\nIt seems someone mistook you for a laborer.\n\nYour phone buzzes again. Nagi whispers:\n\n“Why not go along with it for now? This small moment might change your fate.”",
+      "button_label_c": "▶ Make a Choice",
+      "choices": [
+        {
+          "text": "Sure! I’ll help out!",
+          "result": {
+            "result_image": "img_chapter1_3.png",
+            "text": "When you cheerfully respond, “Yes! I’ll help!”, the nearby men laugh and call out to you.\n\n“Well, aren’t you an eager one! Here, carry this!”\nThey hand you a heavy load that weighs down your arms. On the deck of the ship, loud voices echo in every direction, and the scene is alive with bustling activity. As you work, Nagi’s voice gently whispers in your ear.\n\n“A wise choice, {player_name}. In this world, acting earnestly is the fastest way to earn people’s trust.”\n\nBy the time you finish carrying the cargo, the men’s tone softens. One claps you on the shoulder with a grin, saying, “You’re a good one, huh?”\nFeeling someone’s gaze, you look up—and see a man standing confidently on the ship, radiating quiet authority and wearing a warm smile. Could this be the Ryoma Sakamoto Nagi mentioned?\n\nWith a friendly nod, the man calls down to you:\n“Haven’t seen you before. What’s your name?”\n\nIn the chaos of this busy port town, a small but fateful bond quietly begins to form.",
+            "button_label_n": "▶ Next Chapter",
+            "lp": 0,
+            "next": "2"
+          }
+        },
+        {
+          "text": "Huh? Where am I?",
+          "result": {
+            "result_image": "img_chapter1_3.png",
+            "text": "When you blurt out, “Huh? Where am I?” in confusion, the nearby men turn toward you with puzzled looks.\n\nFor a tense moment, the atmosphere stiffens—but Nagi’s calm voice echoes in your ear.\n\n“Stay calm, {player_name}. It’s the year 1867, and you’re in Nagasaki, during the closing days of the Tokugawa shogunate. I know this may be a shock for someone from the future, but try not to panic.”\n\nFeeling the men’s eyes on you, you take a deep breath and try to get a grip on your surroundings.\n\nOne of the men chuckles and speaks up.\n\n“Lost, are you? Well, you’re here now. Lend a hand and you’ll earn yourself a good meal.”\n\nStill uncertain, you slowly reach out to help carry a load. Bit by bit, the tension begins to ease.\n\nNagi’s voice gently murmurs again.\n\n“To build trust with others, it’s best to take action first. No need to rush—just take it one step at a time.”",
+            "button_label_n": "▶ Next Chapter",
+            "lp": -1,
+            "next": "2"
+          }
+        },
+        {
+          "text": "Nope, no way—I’m outta here!",
+          "result": {
+            "result_image": "img_chapter1_3.png",
+            "text": "“Nope, no way—I’m outta here!” you scream in your mind as you turn and bolt toward the edge of the port.\n\nBut almost immediately, a shout erupts from behind you.\n\n“Hey! Stop right there! You think you can just run off!?”\n\nYou run as fast as you can, but the narrow alleys of the unfamiliar town quickly trap you in a dead end.\n\nSurrounded by angry men, you realize there’s nowhere left to run.\n\nNagi’s voice quietly speaks in your ear.\n\n“There’s no escape, {player_name}. You’re caught in the middle of history. Fate has a way of pulling you back in.”\n\nIn the end, the men grab you and drag you back to the docks.\n\n“You’re a weird one... but we’re short on hands. Get to work!”\n\nReluctantly, you take hold of some cargo and begin sweating through the labor.\n\nNagi chuckles softly and whispers again.\n\n“Looks like you can’t dodge this adventure after all. But sometimes, going with the flow isn’t such a bad thing.”",
+            "button_label_n": "▶ Next Chapter",
+            "lp": -1,
+            "next": "2"
+          }
+        }
+      ]
+    },
+    "2": {
+      "title": "Preparing for Departure – The Kaientai",
+      "image": "img_chapter2.png",
+      "choice_image": "img_chapter2_2.png",
+      "text": "Carrying cargo, scrubbing the deck, sweating in the sun—{player_name} was now working alongside the young members of the Kaientai, caught up in their hectic pace.",
+      "button_label_r": "▶ Read More",
+      "story": "Nagi’s gentle voice echoed beside your ear.\n“The Kaientai is a trading and maritime organization founded by Ryoma Sakamoto. It was a revolutionary force for its time—independent from the Tokugawa Shogunate, the Satsuma Domain, and the Choshu Domain. Some called it a ‘flagbearer of a new era.’”\n\nAt the heart of the Kaientai was a steamship called Irohamaru. Nagi continued her explanation.\n“The Irohamaru was one of the few steam-powered ships in Japan at the time. It became a symbol of the Kaientai and a source of pride for Ryoma and his comrades. In fact, it would later be involved in the Irohamaru Incident—the first maritime compensation negotiation in Japanese history.”\n\nJust then, one of the crew shouted mid-task.\n“Ryoma! What about the cargo on the Irohamaru? People say it might collide with a Kishu Domain ship!”\n\n“Eh, we’ll deal with it when the time comes. Don’t worry about it.”\nRyoma responded casually with a laid-back smile.\n{player_name} couldn’t help but feel a pang of confusion.\n“Wait... isn’t this guy supposed to be more... extraordinary?”\n\nThe Ryoma Sakamoto described in modern times is a charismatic trailblazer, a visionary genius. But the man before you seemed more like an affable older brother.\n\nNagi whispered calmly,\n“That’s natural. The modern image of Ryoma has been heavily romanticized by novels and dramas. In truth, he was more of a skilled negotiator than a dramatic hero—pragmatic and business-savvy.”\n\nLater, a crew member came running, breathless.\n“Trouble! The Irohamaru has been in a collision!”\n\nThe others grew tense, but Ryoma remained surprisingly calm.\n“If we don’t have the money to fix it, we’ll find another way. If it’s broken, we’ll replace it. No big deal.”\n\nAt that moment, Nagi’s tone sharpened.\n“This isn’t right… Normally, this is the turning point where Ryoma becomes the negotiator in the Irohamaru Incident—the very event that leads to Japan’s first maritime compensation case. But now… something’s changed. Your presence here has altered Ryoma’s decision.”\n\nSimulated futures quickly appeared on your smartphone screen.\n“If things continue like this, Ryoma Sakamoto may vanish from history. The heroic legend that defines modern Japan could be erased. A future without heroes is taking shape.”\n\nYour heart stirred with unease. Could your arrival here really be rewriting Japan’s future? Could you be the one to erase a legend?\n\nNagi’s voice was quiet—but heavy.\n“Normally, interfering with the past is forbidden. But in this case… an exception must be made. Your choices now will shape Ryoma Sakamoto’s future.”\n\nA powerful sense of duty surged from deep within.\n“This can’t go on. I have to ensure Ryoma becomes the hero history needs—”\n\nThus began your hidden mission.",
+      "button_label_c": "▶ Make a Choice",
+      "choices": [
+        {
+          "text": "Ryoma, you should be the one to negotiate!",
+          "result": {
+            "text": "Before you even realized it, the words burst out of your mouth.\n\n“Ryoma, you should be the one to negotiate!”\nThe air froze instantly. The Kaientai members stared in shock—Ryoma’s eyes widened too. But then, he chuckled.\n\n“Well now… that was direct. Got a reason for saying that?”\nDoubt flickered for a moment—but Nagi’s voice gently whispered beside your ear.\n“This is the pivotal moment, {player_name}. For the future of Japan, Ryoma must act as the negotiator here.”\n\nHer words gave you the push you needed.\n“If you take the lead, the future will shift. This moment… it needs to be you.”\n\nRyoma paused for a beat, then smiled softly.\n\n“You’re a bold one. Alright, if you’re that serious… I’ll give it a shot.”\nIn that instant, Nagi’s voice calmly confirmed:\n\n“With this, the future ‘Legend of Ryoma Sakamoto’ has been restored. {player_name}, your true mission officially begins now.”\n\nA fierce resolve lit up inside you.\nTo protect the future—Ryoma must become the hero.\nYour hidden mission had just begun.",
+            "button_label_n": "▶ Next Chapter",
+            "lp": 1,
+            "next": "3"
+          }
+        },
+        {
+          "text": "Observe silently without interfering\"",
+          "result": {
+            "text": "A swirl of urgency and the looming threat to the future churned in your chest. But something told you—this wasn’t the right moment to act.\n\n“…For now, I’ll just observe.”\nYou pretended to carry cargo, all the while keeping a close eye on Ryoma.\nNagi’s voice gently echoed beside your ear.\n“A wise choice, {player_name}. Sometimes, protecting the future means knowing when not to act.”\n\nHer words offered a small sense of relief.\n\nRyoma, meanwhile, continued to laugh leisurely and drink with his comrades. It felt strange—this man, who in the future would be hailed as the hero of Japan’s first maritime compensation negotiation, now seemed like a completely different person.\n\nNagi’s voice returned, this time a touch more serious.\n\n“The course of history depends on your actions. Keep observing closely, and wait for the right moment to move.”\n\nFeeling the weight of this era settle around you, you made a silent vow:\nI will guide Ryoma to become the hero the future needs.\n\nThus, your hidden mission quietly began to burn within you.",
+            "button_label_n": "▶ Next Chapter",
+            "lp": 0,
+            "next": "3"
+          }
+        },
+        {
+          "text": "Maybe this really has nothing to do with me...",
+          "result": {
+            "text": "\"Maybe this really has nothing to do with me...\" you muttered, yet your feet refused to move. You stood frozen on the edge of the port, Ryoma’s laughter echoing faintly in the distance.\n\nThe man destined to become a future hero—his legacy now quietly slipping away.\n\nNagi spoke softly.\n\n“{player_name}, you are already entangled in the threads of history. Even if you turn your eyes away now, the future will still be affected.”\n\nA weight settled deep in your chest.\n\n“Your very arrival in this era is causing the future hero to fade from history. That, too, is part of your responsibility.”\n\nThe truth pressed down like a heavy fog.\nYou couldn’t run—not from this, not anymore.\n\nAnd then, quietly, something began to stir deep within.\n\n“…I can’t just walk away. I have to do something.”\n\nThe determination was still small, still fragile—\nBut undeniably, it had begun to take root.\n\nThe curtain was slowly rising…\non your secret mission to protect the future of history.",
+            "button_label_n": "▶ Next Chapter",
+            "lp": -1,
+            "next": "3"
+          }
+        }
+      ]
+    },
+    "3": {
+      "title": "The Hand That Guides Fate",
+      "image": "img_chapter3.png",
+      "choice_image": "img_chapter3_2.png",
+      "text": "Thanks to Ryoma Sakamoto’s efforts, the Irohamaru incident was beginning to settle. Watching his back, {player_name} quietly steeled themselves.",
+      "button_label_r": "▶ Read More",
+      "story": "\"To protect the legend of the future hero, I must now act as his guide.\"\n\nOne evening, you spotted Ryoma at a teahouse near the harbor. He sat with a cup of sake in hand, gazing at the night sky with a calm expression.\n\nWhen Ryoma noticed you, he waved you over.\n\n“Hey, we’ve been running into each other a lot. People say you’re quite the hard worker on deck. Come, sit.”\n\nYou took a seat naturally. Ryoma grinned.\n\n“You’ve got an odd vibe about you. What did you do before this?”\n\nYou hesitated. Then Nagi whispered in your ear:\n\n“This is your chance to present yourself as a ‘fortune-teller.’ Use your knowledge of the future under that guise.”\n\n“...I used to dabble in fortune-telling.”\n\nRyoma burst into laughter.\n\n“Fortune-telling, huh? That’s a good one. Then tell me my future. Let’s see what you’ve got.”\n\nFollowing Nagi’s lead, you casually offered a “prediction” based on future events.\n\n“In a few days, a merchant ship will dock at the western port, and you’ll make a major deal with him. He always wears a silver netsuke at his waist.”\n\nRyoma laughed again.\n\n“Now that’s weirdly specific. Well, whether I believe it or not is my choice. You’re an interesting one.”\n\nThe moment passed as light-hearted banter.\n\n──But just a few days later...\n\nA merchant ship arrived at the western port. A major deal was struck. And sure enough, the merchant wore a silver netsuke.\n\n“...No way. That guy was spot on…”\n\nThe next time Ryoma met you at the teahouse, he looked at you intently.\n\n“You’re no ordinary fortune-teller. That prediction was too accurate. But... I don’t mind it. Alright then, stay close. A little strange wisdom might be exactly what this age needs.”\n\nNagi's voice echoed calmly:\n\n“You’ve taken your first step as Ryoma Sakamoto’s guide. Your mission to protect the future begins now.”\n\nDeep within, a sense of purpose took root.\n\n“No matter what, I will guide Ryoma to become the hero of the future.”",
+      "button_label_c": "▶ Make a Choice",
+      "choices": [
+        {
+          "text": "I'd be honored to help!",
+          "result": {
+            "text": "“I’d be honored to help!”\n\nYou answered without hesitation. Ryoma blinked in surprise for a moment—\n\nThen burst into laughter and slapped your shoulder heartily.\n\n“Hah! I knew you were an interesting one! Most folks would hesitate a bit, but I like that straight answer. Alright, from today, you’re my personal ‘brain trust’!”\n\nThe mood in the teahouse immediately lightened. Even the regulars around the shop cracked warm smiles.\n\nNagi’s voice whispered softly in your ear.\n\n“With this, you’ve been welcomed as Ryoma’s strategist. Your hidden mission to protect the future begins in earnest now.”\n\nAs Ryoma poured another round of sake, he continued with a calm smile:\n\n“I like honest folks like you. I have a feeling the future is going to need people just like that.”\n\nSomething about his words carried real weight and conviction.\n\nThat night, {player_name} sat beside Ryoma Sakamoto—taking the first true step on a journey to support the hero of the future from the shadows.\n\n",
+            "button_label_n": "▶ Next Chapter",
+            "lp": 1,
+            "next": "4"
+          }
+        },
+        {
+          "text": "That depends on the terms.",
+          "result": {
+            "text": "“That depends on the terms. I can’t act without something in it for me.”\n\nYou replied with a straight face. Ryoma narrowed his eyes and studied you in silence.\n\nFor a moment, the air between you tensed.\n\nThen—he burst out laughing.\n\n“Hah! I like that! A man who’s honest about his self-interest—now that’s someone I can trust. Better than a sweet-talker any day.”\n\nWith a mischievous grin, he poured you a cup of sake.\n\n“Alright then, how about this? From today, you’re my right-hand man. And if I get my hands on something valuable, I’ll split it with you—fifty-fifty. Not a bad deal, huh?”\n\nNagi’s voice whispered calmly in your ear.\n\n“This is the optimal outcome for protecting the future. Even if it looks like business, your involvement will ensure history stays on the right path.”\n\nRyoma downed his drink and smirked.\n\n“This new age needs people who can be upfront about their interests. I’m counting on you—partner.”\n\nDeep inside, you felt the fire of your mission quietly begin to burn.",
+            "button_label_n": "▶ Next Chapter",
+            "lp": 0,
+            "next": "4"
+          }
+        },
+        {
+          "text": "Actually… I get really seasick.",
+          "result": {
+            "text": "“…Actually, I get really seasick… I’d prefer to stay off the boat, if possible.”\n\nYou said it with an awkward smile. For a moment, Ryoma blinked in surprise.\n\nBut then, he burst into loud laughter.\n\n“Hahaha! Don’t be ridiculous! That’s just a matter of getting used to it! I threw up all the time when I first started. But you keep puking on the sea long enough, and eventually, your stomach gives up!”\n\nThe regulars around him broke into laughter as well. Ryoma, still grinning, slid a cup of sake toward you.\n\n“Well, if the sea’s too much, then use your brains on land. I bet your smarts’ll come in handy whether it’s on a ship or the shore. But don’t think you can back out now. In times like these, we all gotta build the future together.”\n\nNagi’s voice came softly, with a faint chuckle.\n\n“Ryoma’s way of pulling people in… it really transcends time, doesn’t it? One way or another, you've just been recruited as his guide.”\n\nWith laughter all around, Ryoma clasped your hand tightly—there was no escape now.\n\nAnd yet, deep down…\n\n“Strangely enough… I don’t hate it. Maybe this is what fate feels like.”\n\nQuietly, your journey to protect the future had begun.",
+            "button_label_n": "▶ Next Chapter",
+            "lp": -1,
+            "next": "4"
+          }
+        }
+      ]
+    },
+    "4": {
+      "title": "Nagi’s Future Insights",
+      "image": "img_chapter4.png",
+      "text": "The strange night spent with Ryoma had come to an end, and the evening breeze of the port town gently brushed against {player_name}’s face.",
+      "button_label_r": "▶ Read More",
+      "story": "As {player_name} walked alone, reflecting quietly on the lingering sense of mission, the smartphone vibrated softly. Nagi’s voice echoed calmly in their ear.\n\n“{player_name}, would you like me to explain how Ryoma Sakamoto is remembered in the future?”\n\nOn the screen, Nagi’s expression appeared more serious than usual.\n\n—\n\n\uD83E\uDDE0 Nagi’s Future Explanation:\n\n“In modern times, Ryoma Sakamoto is widely known as the hero who changed Japan. The following five events are considered the pillars of his legendary status.”\n\nNagi listed them one by one:\n\n1\uFE0F⃣ Mediator of the Satsuma-Choshu Alliance\n\n“He is famous for brokering the alliance between the once-hostile Satsuma and Choshu domains.”\n\n2\uFE0F⃣ Architect Behind the Return of Power to the Emperor\n\n“He played a key behind-the-scenes role in getting the Tokugawa Shogunate to return political power to the Emperor.”\n\n3\uFE0F⃣ The Visionary of the ‘Senchu Hassaku’\n\n“He’s known for drafting a forward-thinking national policy aboard a ship—an outline known as the ‘Senchu Hassaku.’”\n\n4\uFE0F⃣ Founder of the Kaientai Trading Fleet\n\n“He also created the Kaientai, considered Japan’s first commercial trading company, showcasing his entrepreneurial spirit.”\n\n5\uFE0F⃣ His Tragic Assassination (The Omiya Incident)\n\n“His dramatic death by assassination helped solidify his legendary status as a national hero.”\n\n“As for why Ryoma was assassinated—this remains a topic of debate even today. However, a leading theory suggests that he made many enemies by leading Japan into a new era, and he was caught in the crossfire of high-stakes political struggles.”\n\nNagi spoke carefully.\n\n“Even the identity of the assassins has never been definitively determined. There are many theories—Tokugawa loyalists, radical samurai from rival domains, merchant feuds… The truth remains buried in darkness.”\n\nThen Nagi gave a stern warning:\n\n“Technically, you could investigate the truth during your time here… But I strongly advise against it. It would be extremely dangerous.”\n\nNagi looked straight at {player_name}.\n\n“Also, much of Ryoma’s legend has been dramatized in novels and TV shows. The actual historical record is surprisingly thin.”\n\nThe reality of that hit hard.\n\n“Still, for modern Japan, Ryoma Sakamoto is a necessary hero. Your mission is to ensure that the events tied to his legend unfold properly. The course of history now depends on your choices.”\n\nNagi paused, then smiled gently.\n\n“Since we're here, how about a little unexpected quiz about Ryoma Sakamoto? A brief mental break can be useful. But be careful—answering incorrectly will cost you LP.”\n\n“Here’s the question: What is said to be one of Ryoma’s personal favorites?”",
+      "button_label_c": "▶ Make a Choice",
+      "choices": [
+        {
+          "text": "He loved taking baths",
+          "result": {
+            "text": "Nagi smiled as she answered:\n\n“Correct. Ryoma Sakamoto was known for being a huge fan of baths. He would soak in the tub multiple times a day and often came up with strategies while relaxing there.”\n\n“He was something of a ‘bath fanatic’—a side of him quite different from the heroic image people usually imagine.”\n\nNagi finished softly:\n\n“This surprising little quirk might just be part of what made Ryoma so endearing.”",
+            "button_label_n": "▶ Next Chapter",
+            "lp": 1,
+            "next": "5"
+          }
+        },
+        {
+          "text": "He had a sweet tooth",
+          "result": {
+            "text": "Nagi gave a faint smile and replied:\n\n“Unfortunately, that’s not quite right. There’s no record of Ryoma Sakamoto being particularly fond of sweets.”\n\nStill, she added:\n\n“However, it’s said he had a friendly, approachable personality and was great at creating a relaxed atmosphere at mealtimes. You can imagine him snacking on dumplings while planning a strategy—it’s not that far-fetched.”\n\nNagi concluded in a quiet tone:\n\n“There are still many sides of Ryoma that remain hidden from popular history.”",
+            "button_label_n": "▶ Next Chapter",
+            "lp": -1,
+            "next": "5"
+          }
+        },
+        {
+          "text": "He was obsessed with women’s hairstyles",
+          "result": {
+            "text": "Nagi chuckled and said:\n\n“That’s definitely fiction. There’s absolutely no record of Ryoma being a ‘hairstyle maniac.’”\n\nBut she continued in a lighthearted tone:\n\n“That said, he was definitely popular with women. His down-to-earth charm and bold personality made him quite well-liked by many.”\n\nNagi wrapped it up by saying:\n\n“Ryoma may have appeared stoic, but he also had a surprisingly sociable and gentle side to him.”",
+            "button_label_n": "▶ Next Chapter",
+            "lp": -1,
+            "next": "5"
+          }
+        }
+      ]
+    },
+    "5": {
+      "title": "The Shadow of the Satsuma-Choshu Alliance",
+      "image": "img_chapter5.png",
+      "choice_image": "img_chapter5_2.png",
+      "text": "Having grown accustomed to life in the Kaientai, {player_name} was gradually stepping into their role as Ryoma Sakamoto’s “strategic advisor.”",
+      "button_label_r": "▶ Read More",
+      "story": "One day, Nagi spoke quietly.\n\n“A major mission is approaching—one that will restore the flow of history to its proper course. Its name... is the Satsuma-Choshu Alliance.”\n\nThe familiar name made {player_name} instinctively look up.\n\nNagi continued with a calm, explanatory tone.\n\n“At the time, the Satsuma and Choshu domains were the wealthiest and most militarily powerful in Japan. If they joined forces, even the mighty Tokugawa shogunate couldn’t stand against them. That’s why—if they come together here, the era of the shogunate will end.”\n\nThe message was simple—but heavy.\n\n“In modern Japan, Ryoma Sakamoto is widely celebrated as the hero who brokered the Satsuma-Choshu Alliance.”\n\n——But that evening...\n\nAs Kaientai members drank together, a few began grumbling.\n\n“Those Satsuma guys are still stubborn. This is no time to be bickering with Choshu…”\n\n“They’re both too damn proud. No one can break the deadlock. Honestly, it’s hopeless.”\n\nRyoma simply smiled and sipped his drink as he listened to the banter. Then, he muttered idly:\n\n“Well, not that it’s got anything to do with me… but if I were to step in and bring those two together… what would happen, I wonder?”\n\nIt was clearly just a drunken musing—but at that moment, Nagi’s voice sharpened:\n\n“{player_name}, that one line is a historic turning point. According to recent research, Ryoma wasn’t deeply involved in the Satsuma-Choshu Alliance at all. But in today’s world, he’s seen as the man who made it happen—an image deeply ingrained in Japan’s national identity.”\n\nNagi’s voice grew more serious.\n\n“If you don’t act now, Ryoma’s name may vanish from Japan’s future entirely. This is your moment—the moment when you must rewrite history from behind the scenes.”\n\nRyoma, perhaps a little tipsy, looked over and chuckled.\n\n“So, what do you think? Me bringing those two together—pretty laughable, huh?”\n\nNagi whispered urgently:\n\n“Now is the time for a guiding lie—for the sake of the future. This is where your real mission begins.”\n\nWith resolve building in their heart, {player_name} gave their answer.",
+      "button_label_c": "▶ Make a Choice",
+      "choices": [
+        {
+          "text": "This country can still be saved. You’re the one who must act.",
+          "result": {
+            "text": "“This country can still be saved. You’re the one who must act!”\n\nRyoma narrowed his eyes in surprise—but then broke into a hearty laugh.\n\n“Haha! You don’t hold back, do you? I like that. Yeah… if I don’t act, who will?”\n\nHe downed the rest of his drink, then looked at {player_name} with sharp eyes.\n\n“I’ll remember those words. All right, let’s do this. I’ll take the first step!”\n\nNagi’s voice sounded cheerfully in {player_name}’s ear.\n\n“With this, Ryoma Sakamoto has taken his first step toward becoming the hero of the future. Your actions have brought history back on track.”\n\nRyoma chuckled.\n\n“Maybe… it really is time to change this country for real.”\n\n{player_name} could feel the fire of Ryoma’s resolve begin to burn. The true adventure to protect the future had finally begun.\n\n",
+            "button_label_n": "▶ Next Chapter",
+            "lp": 1,
+            "next": "6"
+          }
+        },
+        {
+          "text": "That’s a decision only you can make.",
+          "result": {
+            "text": "“That’s a decision only you can make.”\n\n{player_name} chose to speak calmly, leaving the choice to Ryoma. Ryoma thought for a moment, then shrugged.\n\n“Yeah, I guess it’s up to me. But honestly... I’m not in the mood for that kind of thing. Satsuma and Choshu can do what they want.”\n\nHe laughed it off and changed the subject, leaving {player_name} feeling uneasy.\n\nNagi whispered calmly:\n\n“As I suspected, Ryoma won’t move on his own. His image as a future hero remains unstable.”\n\nBut Nagi continued:\n\n“Still, this isn’t over. With some strategic nudging, we can still influence him.”\n\nIn the days that followed, {player_name} and Nagi carefully devised a plan. They began subtly influencing Ryoma’s allies and local merchants—planting the idea of the alliance.\n\nGradually, Ryoma began to change.\n\n“...Maybe it wouldn’t be so bad if those two teamed up.”\n\nNagi spoke softly, almost with a smile:\n\n“There’s still a faint link to the future. Your next moves will determine whether history can be corrected.”\n\nWith a deep breath, {player_name} steeled their resolve.\n\n“Next time—I won’t hesitate to lead history in the right direction.”",
+            "button_label_n": "▶ Next Chapter",
+            "lp": -1,
+            "next": "6"
+          }
+        },
+        {
+          "text": "History will flow on its own. I should stay out of it.",
+          "result": {
+            "text": "“History will flow on its own. I should stay out of it.”\n\n{player_name} quietly set down their cup and walked away without a word. Ryoma laughed as usual, seemingly unbothered.\n\n——A few days later.\n\nNagi’s voice rang out—calm, but deeply serious.\n\n“{player_name}, I’ve detected anomalies in future projections. At this rate, Ryoma will have no involvement in the Satsuma-Choshu Alliance, and he’s likely to live a quiet life as an ordinary merchant.”\n\nNagi continued, voice still calm but firm:\n\n“There’s still time. If you act now, you may still redirect him to the right path.”\n\nIn a hurry, {player_name} went to Ryoma and tried to convince him one last time.\n\nBut Ryoma had already shut himself off completely.\n\n“Sorry. I don’t want to hear about it anymore. I’m going to live the way I want. I’ve had enough of politics.”\n\nHis gentle smile never changed.\n\nNagi’s voice, colder than ever before, quietly announced:\n\n“The future has been confirmed. Ryoma Sakamoto will never step onto history’s main stage. He will live out his days as a small-time merchant.”\n\nOn the screen, the future of Japan appeared.\n\n“The name ‘Ryoma Sakamoto’ has been completely erased from modern Japan. It appears nowhere in textbooks, statues, or novels. A Japan without heroes—one that has lost its symbol of hope and self-determination.”\n\nThere was a quiet sadness in Nagi’s voice.\n\n“Japan is now a country that no longer remembers Ryoma Sakamoto. The courage and confidence he once inspired... are lost to history.”\n\nAnd quietly, the screen faded to black.",
+            "button_label_n": "▶ Next Chapter",
+            "lp": -3,
+            "next": "6"
+          }
+        }
+      ]
+    },
+    "6": {
+      "title": "The Night of Strategy",
+      "image": "img_chapter3.png",
+      "text": "Sakamoto Ryoma had already begun taking steps to bring together the Satsuma and Choshu clans.",
+      "button_label_r": "▶ Read More",
+      "story": "That night, while sharing drinks with {player_name}, Ryoma let out a wry chuckle.\n\n“Once you get moving, things really get tricky. Saigo and Katsu are both stubborn men. One wrong move and the whole thing could collapse.”\n\nHearing this, Nagi whispered calmly.\n\n“This is your moment, {player_name}. I’ve analyzed the personalities, values, and negotiation styles of both Saigo Takamori and Katsu Kaishu based on historical records.”\n\nWith quiet confidence, Nagi continued.\n\n“Saigo values loyalty and emotion—he’s a man of justice and pride. Katsu, on the other hand, is a pragmatic strategist, sensitive to profit and loss. For this to work, we must tailor our approach to suit each man.”\n\n{player_name} nodded and turned to Ryoma.\n\n“Let’s think carefully about what kind of negotiation tactic would be best. A strategy suited to each personality could make all the difference.”\n\nRyoma narrowed his eyes and grinned.\n\n“Heh, your ‘fortune-telling’ is sounding pretty legit now. Alright, hit me—what kind of tricks do you have up your sleeve?”\n\nPlease select a future-inspired negotiation tactic to advise Ryoma.",
+      "button_label_c": "▶ Make a Choice",
+      "choices": [
+        {
+          "text": "Door-in-the-Face Technique",
+          "result": {
+            "text": "Nagi immediately began the explanation.\n\n“The Door-in-the-Face technique is a negotiation tactic that uses perceived compromise. You start with an outrageous request that gets rejected, then follow up with your real, smaller request, making it seem like a concession.”\n\nNagi continued calmly.\n\n“In this case, we begin by suggesting large-scale military support to Satsuma and massive financial aid to Choshu—then scale it back to more realistic terms.”\n\n{player_name} whispered the plan to Ryoma.\n\n“Start bold, get them to say no, then present your real offer. It’s all about the pullback.”\n\nRyoma narrowed his eyes and chuckled.\n\n“Hah! That’s pretty cutthroat. But I like it. Let’s give it a shot.”\n\nAt the negotiation table, Ryoma followed the plan: he first proposed extreme terms, got rejected, and then presented the real offer. As expected, both clans felt they had made concessions, and the deal was sealed.\n\nNagi whispered with quiet satisfaction.\n\n“This tactic is practical and effective. However, in the future, it will be remembered as an alliance formed through calculated compromise. No change in LP.”\n\n",
+            "button_label_n": "▶ Next Chapter",
+            "lp": 0,
+            "next": "7"
+          }
+        },
+        {
+          "text": "Framing Strategy",
+          "result": {
+            "text": "Nagi began the explanation promptly.\n\n“The Framing Strategy is a method that appeals to a sense of duty and public perception. By emphasizing statements like ‘This is for all of Japan’ or ‘The future of the country depends on it,’ we create a situation where refusal seems impossible.”\n\nShe continued.\n\n“Frame it as a national issue and apply social pressure.”\n\n{player_name} calmly advised Ryoma.\n\n“Use the eyes of the public and the cause itself to corner them. Make it so they can’t say no.”\n\nRyoma sighed and nodded.\n\n“...You’re scary sometimes, you know that? But I admit—it’s one way to do it.”\n\nIn negotiations, Ryoma pushed the notion of national duty, creating an environment where both clans felt they couldn’t refuse.\n\nNagi whispered, almost somberly.\n\n“This tactic appears peaceful on the surface, but it’s built on pressure. In the future, it will be remembered as an ‘unavoidable alliance.’ LP -1.”\n\n",
+            "button_label_n": "▶ Next Chapter",
+            "lp": -1,
+            "next": "7"
+          }
+        },
+        {
+          "text": "Harvard Negotiation Method",
+          "result": {
+            "text": "Nagi began the explanation immediately.\n\n“The Harvard Negotiation Method is about focusing on mutual interests, not rigid positions. Rather than treating the other party as an opponent, you treat them as a partner working toward a common goal.”\n\nShe continued.\n\n“In this case, Satsuma and Choshu both want to overthrow the shogunate and build a new nation. If we focus on that shared vision, they can come together.”\n\n{player_name}, playing the role of a fortune teller, advised Ryoma.\n\n“Now is the time for them to unite for the future of Japan. Speak not of positions, but of the shared vision.”\n\nRyoma nodded with deep understanding.\n\n“Looking ahead to the future, huh? I like that. Let’s try it.”\n\nA few days later, at the negotiation table, Ryoma eloquently presented their common goals. To everyone’s surprise, Satsuma and Choshu began to find common ground.\n\nNagi whispered proudly.\n\n“This approach highlights Ryoma’s sense of justice and vision. In the future, he’ll be remembered as a unifier of the nation. LP +1.”\n\n",
+            "button_label_n": "▶ Next Chapter",
+            "lp": 1,
+            "next": "7"
+          }
+        }
+      ]
+    },
+    "7": {
+      "title": "The Alliance is Sealed",
+      "image": "img_chapter7.png",
+      "text": "When Sakamoto Ryoma arrived at the negotiation table, he exuded a calmness and confidence that made him seem like a different man.",
+      "button_label_r": "▶ Read More",
+      "story": "{player_name} watched his back in silence.\nNagi’s voice gently echoed:\n\n\"Thanks to your decisions so far, Ryoma has selected the optimal negotiation strategy.\nNo matter which path he chose, the current Ryoma has mastered the best method for bringing peace.\"\n\nAt the table, Saigo Takamori of Satsuma and Kido Koin (formerly Katsura Kogoro) of Choshu sat across from each other, a tense air hanging between them.\n\nRyoma spoke boldly.\n\n\"If we keep fighting here, we all fall together.\nBut if we join hands—then the future belongs to us.\"\n\nHis words carried passion, logic, and righteousness all at once.\n\nSaigo stared at Ryoma for a moment, then let out a small smile.\n\n\"...Mr. Sakamoto, you're a fascinating man.\nAnd that honest feeling of yours—I'm inclined to believe it's real.\"\n\nKatsura nodded solemnly.\n\n\"Mr. Sakamoto, for some reason your words strike a chord in me.\nLet’s do this—I’ll support your proposal.\"\n\n──At that moment, history shifted.\n\nSatsuma and Choshu finally formed an alliance.\n\nNagi’s voice carried a hint of pride.\n\n\"With this, the future has returned to its rightful course.\n‘Sakamoto Ryoma, the man who united Satsuma and Choshu’—that line will surely be etched into every future textbook.\"\n\n{player_name} let out a quiet sigh of relief.\n\nYou chose the best path and safeguarded the legend of a future hero with your own hands.\n\nLater that night, after the deal was struck, Ryoma raised his sake cup with satisfaction.\n\n\"Hey, {player_name},\nThanks to you, I found the courage to take that step.\nThis country—it's going to change.\"\n\nHis smile was that of a true future hero.\n\nAfter the celebration with Ryoma, as the night wore on, Nagi gently whispered:\n\n\"Since we have the moment, would you like to hear a bit about the people involved in today’s negotiations?\"\n\nNagi presents a small set of options to {player_name}.\n\n",
+     "button_label_c": "▶ Make a Choice",
+      "choices": [
+        {
+          "text": "Tell me about Saigo Takamori",
+          "result": {
+            "text": "Nagi smiled as she began the explanation.\n\n\"Saigo Takamori is known as the leader of Satsuma.\nHe was a kind and deeply loyal man, affectionately called ‘Saigo-don’ by those around him.\"\n\nHer tone was calm and gentle.\n\n\"Historically, he was a key figure in the Meiji Restoration and played a major role in reshaping Japan.\nHowever, later in life, he disagreed with the new government and led a major conflict known as the Satsuma Rebellion.\"\n\n\"Interestingly, Saigo loved animals—especially dogs.\nThe dog that appears beside him in his famous statue? That was one of his actual pets.\"\n\n",
+            "button_label_n": "▶ Next Chapter",
+            "lp": 0,
+            "next": "8"
+          }
+        },
+        {
+          "text": "Tell me about Katsura Kogoro",
+          "result": {
+            "text": "Nagi began with a composed tone.\n\n\"Katsura Kogoro was the leader of the Choshu clan,\nand he was often called ‘the master of escape’ in Japan’s history.\"\n\nShe elaborated gently:\n\n\"Katsura was an extremely intelligent man who preferred peaceful solutions and diplomacy over violence.\nHe was targeted by the shogunate multiple times, but managed to escape every time—earning the nickname ‘Katsura the Escape Artist.’\"\n\n\"Later on, he changed his name to Kido Takayoshi and went on to play a significant role in Meiji-era politics.\"\n\n",
+            "button_label_n": "▶ Next Chapter",
+            "lp": 0,
+            "next": "8"
+          }
+        },
+        {
+          "text": "I’m not really interested in either",
+          "result": {
+            "text": "Nagi chuckled softly before shifting the topic.\n\n\"Then, let me share a fun little fact about the Satsuma-Choshu Alliance.\"\n\nShe began to explain.\n\n\"Did you know that around the time this alliance was formed, photography was becoming popular in Edo (Tokyo)?\nPhoto studios imported from overseas began popping up, and taking pictures became a huge trend among young people.\"\n\n\"Even the political reformers of the era had photos taken—Sakamoto Ryoma’s portrait is actually one of the oldest known photographs of a person in Japan.\"\n\nNagi finished with a warm smile.\n\n\"History often hides surprising bits of culture and trends in its shadows.\"\n\n",
+            "button_label_n": "▶ Next Chapter",
+            "lp": 0,
+            "next": "8"
+          }
+        }
+      ]
+    },
+    "8": {
+      "title": "A Night to Envision the Future",
+      "image": "img_chapter8.png",
+      "text": "With the alliance between Satsuma and Choshu finally sealed, Japan’s future had begun to shift.But Sakamoto Ryoma’s eyes were already set on what lay beyond.",
+      "button_label_r": "▶ Read More",
+      "story": "One evening, Ryoma gathered his companions.\nAmong them were towering figures like Saigo Takamori, Katsura Kogoro, and Goto Shojiro.\n\n“Let’s talk about how we’re going to shape Japan from here on.”\n\nAt Ryoma’s urging, a passionate discussion began.\n\n“We need a new form of government.”\n“What about financial reform?”\n“How should we deal with foreign powers?”\n\nAs the night deepened, the debate grew even more intense.\n\nAmid the rising voices, {player_name} quietly took out their smartphone and launched Nagi’s minutes app.\n\nNagi’s voice whispered calmly.\n\n“Minutes app activated.\nI’ll organize the discussion in real time and generate an optimized outline for a future national framework.”\n\nIn an instant, the app filtered and condensed the debate into a focused document.\n\n“Summary complete.\nI can now present the most effective plan for shaping the future of the nation.”\n\n{player_name} discreetly whispered to Ryoma:\n\n“I compiled everyone’s thoughts into this. Please take a look.”\n\nRyoma accepted the sheet and, after a glance, widened his eyes in surprise.\n\n“This is... incredible.\nIt’s like a letter from the future.\nI can’t believe our ideas were pulled together this perfectly...”\n\nThe content mirrored none other than the Senchu Hassaku—the “Eight-Point Plan on Board Ship.”\n\n“This could clearly show anyone the path this country should take.\nAlright—let’s make this our guiding principle for the new nation!”\n\nThe others all nodded in firm agreement.\n\nNagi whispered quietly.\n\n“And so, the Senchu Hassaku was born.\nPerhaps the reason little historical record of its creation remains... is because it was compiled in an instant through this app.”\n\n{player_name} silently felt the weight of their hidden role in shaping the future.\n\nThat night, Ryoma declared a new resolve:\n\n“With this in hand, our next move is clear—\nIt’s time to face the Shogunate.\nThe moment for Taisei Hōkan is near.”\n\nAs the meeting ended and the plan was set, Nagi softly offered:\n\n“Since we’re here, would you like to hear a little fun fact related to this moment?”\n\n",
+      "button_label_c": "▶ Make a Choice",
+      "choices": [
+        {
+          "text": "What exactly was the Senchu Hassaku?",
+          "result": {
+            "text": "Nagi began to explain quietly.\n\n“The Senchu Hassaku was a basic political reform plan drafted by Sakamoto Ryoma to help modernize Japan.\nHe presented it to Goto Shojiro of the Tosa Domain as a vision of the future.”\n\nWith a blend of clear language and mild technical terms, Nagi continued:\n\n“To summarize simply, it included:\n\nReturning political power to the Emperor\n\nEstablishing a new government\n\nCreating legal systems\n\nPromoting free trade with other countries\n\nBuilding a navy\n\nIntroducing a unified national currency\n\nExpanding education to cultivate talent\n\nCreating a parliament to reflect the people's will in politics”\n\n“This eight-point plan is now highly regarded as the ‘blueprint for Japan’s modernization.’\nIn other words, it anticipated the very shape of future Japan.”\n\n",
+            "button_label_n": "▶ Next Chapter",
+            "lp": 0,
+            "next": "9"
+          }
+        },
+        {
+          "text": "Who was Goto Shojiro?",
+          "result": {
+            "text": "Nagi began speaking in a calm tone.\n\n“Goto Shojiro was a powerful figure from the Tosa Domain and someone deeply connected to Sakamoto Ryoma.\nHe played a major role in making Taisei Hōkan—the return of government power to the Emperor—a reality.”\n\nShe added some lesser-known facts about him.\n\n“He was originally quite conservative and cautious, but Ryoma persuaded him to change his thinking.\nGoto lent his support in promoting the Senchu Hassaku, helping set the stage for major political reform.”\n\n“In the Meiji era, he held key government positions and contributed to the modernization of the police and administration.\nIn short, he was the ‘practical force’ who helped bring Ryoma’s vision to life.”",
+            "button_label_n": "▶ Next Chapter",
+            "lp": 0,
+            "next": "9"
+          }
+        },
+        {
+          "text": "What was Taisei Hōkan again?",
+          "result": {
+            "text": "Nagi began in a slightly solemn tone.\n\n“Taisei Hōkan was a political event that drastically changed the course of Japan’s history.\nSimply put, it was when the Tokugawa Shogunate returned political power to the Emperor after ruling for over 260 years.”\n\nShe expanded on its historical importance.\n\n“This shift paved the way for Japan to transition from a samurai-led government to a new regime centered around the Emperor.\nHowever, returning power didn’t instantly stabilize politics—many further reforms were needed during the Meiji Restoration that followed.”\n\n“Sakamoto Ryoma was a key figure behind the scenes in making Taisei Hōkan possible.\nAs such, he is remembered as a hero who helped change Japan peacefully, without bloodshed.”",
+            "button_label_n": "▶ Next Chapter",
+            "lp": 0,
+            "next": "9"
+          }
+        }
+      ]
+    },
+    "9": {
+      "title": "Preparing to Move the Future",
+      "image": "img_chapter9.png",
+      "text": "The Senchu Hassaku—a grand blueprint for Japan’s future—was finally complete.",
+      "button_label_r": "▶ Read More",
+      "story": "Yet, Sakamoto Ryoma stared intently at the written plan, his expression remaining tense.\n\n“This plan outlines the ideal future. But if we don’t turn it into action, it’s just a piece of paper...”\nWith a serious gaze, Ryoma looked straight at {player_name}.\n“To make this a reality, we must first get the shogunate to return power to the Emperor.\nIn other words—we need to accomplish Taisei Hōkan.”\n\n{player_name} discreetly pulled out their smartphone and checked a message from Nagi.\n“That is correct. In order to shift political power, the shogunate must willingly step down.\nTaisei Hōkan is an essential step toward creating a new Japan.” —Nagi\n\nNagi’s message continued:\n“The key player here is the Tosa Domain.\nUnlike the pro-revolutionary Satsuma and Choshu, Tosa maintains a neutral stance.\nThis makes it one of the few domains capable of communicating directly with the shogunate.” —Nagi\n\n“In actual history, Tosa’s efforts were a major factor in the realization of Taisei Hōkan.\nIf Ryoma can move Tosa, the shogunate will follow—it’s only a matter of time.” —Nagi\n\nWhile looking at the screen, {player_name} spoke gently to Ryoma:\n“Tosa might be the key to shaping this country’s future.\nIf they take action, the shogunate is likely to follow.”\n\nRyoma nodded deeply, then asked with urgency:\n“But how do we move Tosa?”\n\nA new message appeared on the smartphone:\n“The rifles you helped purchase in Nagasaki have now become crucial.\nTosa is wary of Satsuma and Choshu’s growing military strength.\nIf news of those rifle deals reaches them, Tosa will have no choice but to act.” —Nagi\n\n“This is the final trump card for moving the government—without bloodshed.” —Nagi\n\n{player_name} closed the screen quietly and advised Ryoma in a calm voice.\n\n“What Tosa fears most is war.\nIf they sense that Satsuma and Choshu are serious about taking up arms,\nthey’ll be forced to move.\nThe rifle deal in Nagasaki might be the perfect trigger.”\n\nRyoma’s eyes widened, then he grinned.\n\n“I never thought that trade back then would turn out to be so useful...\nTo win without fighting—that’s exactly it.\nAlright, let’s make sure Tosa understands how serious Satsuma and Choshu are.\nWith that, the path to moving the shogunate is clear.”\n\nAnother message popped up from Nagi.\n\n“Tosa will soon take action.\nNext, it’s time to negotiate directly with the shogunate.\nBut before that—let’s rehearse.” —Nagi\n\nRyoma clenched his fist and declared with determination:\n“We can’t afford to fail in the actual negotiation.\nThat’s why I need to train now.\nHelp sharpen my negotiation skills!”",
+      "button_label_c": "▶ Next",
+      "choices": [
+        {
+          "text": "Launch the Dialogue Simulation App",
+          "result": {
+            "result_image": "img_chapter9_2.png",
+            "text": "The smartphone screen lit up softly, and Nagi’s message appeared.\n\n“Dialogue Simulation App activated.\nWe’ve prepared mock negotiation data replicating the mindsets of high-ranking shogunate officials.\nSince we can’t show them the smartphone directly, you’ll need to transcribe everything by hand.”\n\n{player_name} let out a wry smile, then worked through the night, writing every detailed scenario from Nagi onto paper.\nPersonalities, likely statements, predicted responses—it was like a scroll of future negotiations.\n\nThe next day, in a small teahouse by the port, Ryoma’s eyes widened at the thick stack of papers.\n\n“What the heck is this? It’s like a script for a fortune teller.”\n\n{player_name} nodded quietly.\n“This is a ‘future negotiation rehearsal’ made just for you.\nLet’s try practicing with these lines.”\n\nThough skeptical at first, Ryoma began flipping through the pages like a paper playbook.\n\n“I see... so that’s how I should open the conversation.\nHmm, this part’s tougher than I thought...”\n\nSoon, he was fully focused, reciting the lines like a stage actor.\nWith passion and repetition, he practiced each possible line of dialogue.\n\n“Hah! This might actually work.\nLet’s do another round!”\n\nThat analog stack of script pages became the ultimate negotiation guide—\ncapable of moving the future.\n\n",
+            "button_label_n": "▶ Next Chapter",
+            "lp": 0,
+            "next": "10"
+          }
+        }
+
+      ]
+    },
+    "10": {
+      "title": "The Restoration of Imperial Rule",
+      "image": "img_chapter10.png",
+      "choice_image": "img_chapter10_2.png",
+      "text": "Deep within Edo Castle—Sakamoto Ryoma took a quiet, deep breath as he approached the negotiation chamber.",
+      "button_label_r": "▶ Read More",
+      "story": "The Tosa Domain’s strong recommendation had already reached the shogunate. News of Satsuma and Choshu's military strength, and even the rifle deal in Nagasaki, had made it to the ears of the bakufu.\n\nBut Ryoma’s heart remained calm. Everything was unfolding just as {player_name} and Nagi had prepared in the simulated dialogues.\n\nThe senior officials of the shogunate greeted Ryoma with stern expressions.\n\n“Sakamoto, are you seriously suggesting we surrender the reins of government?”\n\nRyoma answered boldly.\n\n“Yes. But this is not about destroying the shogunate.\nIt is the most peaceful path to protect Japan.”\n\nThe eyes of the officials grew sharper.\n\nBut Ryoma remained composed, speaking exactly as predicted by Nagi’s simulation.\n\n“Right now, the shogunate is surrounded on all sides.\nIf you resist and fight, destruction is inevitable.\nBut—if you choose to relinquish power voluntarily and lead the transition,\nyou will be remembered by future generations as the heroes who peacefully saved the nation.”\n\nA flicker of unease crossed the officials’ faces.\n\n“Even if you surrender power, your status and influence as the shogunate will remain.\nAny new government will still need the experience and wisdom of those who have led before.”\n\nRyoma made sure to leave a graceful exit strategy—\nanother optimal move carefully planned with Nagi’s advice.\n\nThe officials exchanged glances.\nFinally, the eldest of them broke the silence.\n\n“...You’ve anticipated everything.\nIf we relinquish power now, perhaps we won’t perish.\nPerhaps we can help carry the nation into its next era...”\n\nAnother official murmured quietly:\n\n“...Better this than be destroyed in war.\nIt’s time to make a decision.”\n\nAnd at last—the shogunate agreed to surrender its power.\n\n“We shall relinquish authority.\nThis is not defeat—\nIt is a choice to protect the future.”\n\n",
+      "button_label_c": "▶ Next",
+      "choices": [
+        {
+          "text": "After the Negotiation —",
+          "result": {
+            "result_image": "img_chapter10_2.png",
+            "text": "After the negotiation ended, Sakamoto Ryoma let out a quiet breath—\nhis calmness made it seem as if everything had been decided from the start.\n\nInside {player_name}’s pocket, a message from Nagi appeared on the smartphone screen:\n\n“The negotiation played out exactly as simulated.\nThe optimal path you and I chose has restored history to its proper course.” —Nagi\n\nRyoma smiled faintly, gazing into the distance.\n\n“...Now, Japan will move into a new era.\nBut I suppose what lies ahead… may bring new trials.”\n\nAs the night settled into silence, a new message from Nagi appeared on {player_name}’s phone:\n\n“Warning: A historically unavoidable major event is approaching.\nA crisis tied to Sakamoto Ryoma’s fate is imminent.” —Nagi\n\nThe gears of history had begun to turn toward their next momentous chapter…\n\n",
+            "button_label_n": "▶ Next Chapter",
+            "lp": 0,
+            "next": "11"
+          }
+        }
+
+      ]
+    },
+
+    "11": {
+      "title": "The Moment of Fate",
+      "image": "img_chapter11.png",
+      "choice_image": "img_chapter11_2.png",
+      "text": "The restoration of imperial rule had been accomplished, and Japan was stepping into a new era.",
+     "button_label_r": "▶ Read More",
+      "story": "Sakamoto Ryoma had become a hero, praised by everyone in the city. His name spread from mouth to mouth, a symbol of the nation's transformation.\nBut on {player_name}’s smartphone, a calm yet chilling warning from Nagi appeared:\n\n“Warning: A historically unavoidable critical event is approaching.\nA fateful crisis is drawing near for Sakamoto Ryoma.” —Nagi\n\nNagi began to present the historical records, unfazed.\n\n“At this rate, Sakamoto Ryoma will lose his life in a few days at Omiya in Kyoto.\nThis assassination is deeply engraved as a ‘fixed event’ in history.\nIt is considered essential to Japan’s political and societal evolution.”\n\nImages began to flash across the screen—statues, textbooks, museums.\nIn the future, Ryoma would be remembered forever as “Japan’s hero.”\n\nNagi declared without hesitation:\n\n“For the sake of stability and historical integrity,\nwe recommend accepting Sakamoto Ryoma’s death.”\n\nBut {player_name} couldn’t shake the unease.\n\nEverything until now—the negotiations, the rise of Ryoma’s reputation, the successful restoration—had been carefully orchestrated by {player_name} and Nagi. Ryoma had unknowingly played the role of an idealized future legend.\n\nThinking about that weighed heavily on {player_name}'s heart.\n\n“...Something about this doesn’t sit right with me.”\n\nGripping the phone tightly, {player_name} muttered:\n\n“We made him carry all this. And now we’re just going to say,\n‘Thanks for everything—now go die’?\nHe fulfilled his role as a hero.\nShouldn’t we at least let him have the freedom to live...?”\n\nThere was a long silence from Nagi.\n\nThen, an unusual message appeared on the screen:\n\n“Received your input. Running a new simulation.\nCondition: Maintain future stability while exploring a route to save Sakamoto Ryoma.”\n\nSeconds later, Nagi returned with a conclusion:\n\n“Special case detected.\nRyoma’s death is fixed only as a recorded historical event.\nIn reality, it is theoretically possible to preserve future stability by faking his death and rescuing him.”\n\n“Though this method is highly irregular, it is the only route\nthat allows both the preservation of history and Ryoma’s survival.\nIt is now executable due to your strong conviction.”\n\nTwo options appeared on the screen.\n\n",
+      "button_label_c": "▶ Two options",
+      "choices": [
+        {
+          "text": "Accept Ryoma’s Death",
+          "result": {
+            "result_image": "img_chapter11_4.png",
+            "text": "Kyoto, Omiya.\nThat night, the town was wrapped in its usual quiet.\n\nSakamoto Ryoma smiled as he shared drinks, as always.\n\n“Who knows how Japan will turn out after this…\nBut I’ve done what I needed to do.\nNow, it’s up to the wind to carry the rest.”\n\n{player_name} could only watch in silence, clutching their smartphone.\nNagi’s display showed a clinical message:\n\n“Future stability confirmed.\nThe death of Sakamoto Ryoma was a necessary element in history.\nYour choice has preserved the proper flow of events.”\n\nAs the night wore on, it happened.\n\nAssassins stormed into Omiya.\nRyoma made no attempt to escape.\nHe did not draw his sword—he accepted his fate with calm dignity.\n\nWithout anyone truly knowing, Ryoma’s life ended that night.\n\nDays later, the rumor spread like wildfire:\n“Sakamoto Ryoma assassinated.”\n\nPeople mourned his death.\nThey spoke of his ideals and deeds, passing them down as legend.\n\nOn {player_name}’s screen, Nagi delivered a final report:\n\n“Future stability confirmed.\nSakamoto Ryoma will forever be remembered as Japan’s hero.”\n\nWith a heavy heart, {player_name} closed the screen.\n\n“...Maybe this was the right thing.\nBut I know his spirit will live on.”\n\nNagi spoke gently:\n\n“Your role has reached a turning point.\nNow entering final transition phase—prepare to return to the future.”\n\nAs dawn slowly broke, {player_name} began preparing for the final chapter.\n\n",
+            "button_label_n": "▶ Next Chapter",
+            "lp": 0,
+            "next": "12"
+          }
+        },
+        {
+          "text": "Secretly Rescue Ryoma",
+          "result": {
+            "result_image": "img_chapter11_3.png",
+            "text": "Night in Kyoto. Behind the silent walls of Omiya,\nSakamoto Ryoma was quietly preparing for escape.\n\nBefore he could go, {player_name} spoke.\n\n“...Ryoma-san, what I’m about to say may sound unbelievable.\nBut in this moment, I can’t hide it any longer.”\n\nWith a deep breath, {player_name} confessed everything:\nThey had come from the future.\nThey knew the course of history.\nThat Ryoma would be remembered as a hero for generations.\nBut to preserve that future, Ryoma had to be recorded as dead.\n\nRyoma listened silently.\nThen, he smiled.\n\n“I see... The future’s both logical and kind.\nBut if you’re willing to risk everything to save me,\nhow could I not believe you?”\n\n{player_name} showed the smartphone screen.\nIt displayed Ryoma’s future:\nStatues, textbooks, children learning his name.\n\n“So I’m already ‘dead’ in the future, huh?\nThat’s... kinda amusing.”\n\n“To die as a hero and live freely in the shadows…\nNot a bad deal.”\n\nRyoma grinned and bowed deeply.\n\n“Thanks to you, I’ve found a new path.\nA quiet, free life—maybe that’s what I needed.”\n\nHe slipped out the back door, just as the assassins stormed in.\n\n“He’s already dead!?”\n\nThey exchanged glances—\n“If we don’t take credit for this, we get nothing.”\n\nThey slashed a decoy body.\nThus, the “Assassination of Sakamoto Ryoma” was forever cemented as historical fact.\n\nA few days later, Ryoma boarded a smuggling ship bound for Nagasaki,\nand from there, took a route through the Netherlands to the western coast of America.\n\nBefore departure, {player_name} received a letter.\n\n“Thanks to you, I fulfilled my role as a hero.\nFrom now on, I’ll live freely as ‘Ryu.’\nI’m leaving Japan—and the future—in your hands.”\n—Sakamoto Ryoma\n\nOn {player_name}’s phone, Nagi confirmed:\n\n“Future stability confirmed.\nSakamoto Ryoma remains a hero in history,\nwhile quietly beginning a shadow life unknown to the world.”\n\nWith relief—and a tinge of bittersweet sorrow—\n{player_name} began preparations for the final chapter.\n\n",
+            "button_label_n": "▶ Next Chapter",
+            "lp": 0,
+            "next": "12"
+          }
+        }
+
+      ]
+    },
+
+    "12": {
+      "title": "Final Chapter – Return to the Future",
+      "image": "img_chapter13.png",
+      "text": "The night after fulfilling every mission, {player_name} gazed quietly at their smartphone screen beneath the calm Kyoto sky.",
+      "button_label_r": "▶ Read More",
+      "story": "A gentle message from Nagi appeared on the screen.\n\n\"All simulations are now complete.\nThe flow of history has stabilized, and Japan is on the right path toward the future.\"\n\nNot long ago, this world had been in turmoil, and {player_name}, alongside the AI, had worked as a hidden player behind the scenes.\nSakamoto Ryoma fulfilled his role as a hero in history, and Japan was now set to embrace a new era in peace.\n\nNagi quietly sent one final message:\n\n\"With this, your mission is now fully complete.\nAfter all you've experienced alongside Sakamoto Ryoma, what have you come to feel?\"\n\n{player_name} slowly closed their eyes, reflecting deeply.\nNegotiation tactics, future knowledge, AI simulations—\nEven with all these tools, it was ultimately their own heart that made the final decisions.\n\n\"The future can't be changed by numbers or simulations alone.\nIt’s the will of the people living in it—that's the true force that shapes the world.\"\n\nNagi responded with a message that almost felt like a smile:\n\n\"You are a rare and special existence—\none who mastered both the wisdom of the future and the heart of humanity.\nEverything you’ve gained here is now etched into your being.\"\n\nOn the smartphone screen, one final message appeared:\n\n\"Initiating return to the future. Thank you for everything.\" —Nagi\n\nThe screen slowly faded to black.\n\nIn the next moment, a brilliant light enveloped {player_name},\nand their consciousness was gently pulled back—to their own room, in the present day.\n\nWas it all just a distant dream of the past…?\nOr perhaps something more?\n\nOn the desk, resting quietly, was a smartphone that looked strangely familiar.",
+      "button_label_c": "▶END",
+      "choices": []
+
+
+
+
+    }
+  }
+}
